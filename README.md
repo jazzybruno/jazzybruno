@@ -1,6 +1,10 @@
 ### Hello there folks 👋👋👋
+<div align="center">
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=22&color=F4F71E&background=1E2D45&center=true&vCenter=true&lines=Hi+there+I+am+Jazzy+Bruno;A+software+engineer;I am FullStack (Backend Heavy Developer;UI+&&+UX+Designer)](https://git.io/typing-svg)
     </br>
+    <br>
+    </div>
 =====================
 
 Full stack web developer | UI x UX designer
