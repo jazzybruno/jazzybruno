@@ -2,7 +2,7 @@
 
 =====================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There+of+Folks;My+name+is+Jazzy+Bruno;I+am+a+Software+developer;I+currently+study+in+Rwanda+Coding+Academy)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+There+Folks;My+name+is+Jazzy+Bruno;I+am+a+Software+developer;I+currently+study+in+RCA)](https://git.io/typing-svg)
 
 Full stack web developer | UI x UX designer
 ----------------------------------------------
