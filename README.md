@@ -2,7 +2,8 @@
 
 =====================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=103748&lines=Hello+There+!!;My+Name+is+Jazzy+Bruno;I+am+a+Software+Developer+;I+currently+Study+at+RCA)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&background=327CD200&center=true&vCenter=true&width=460&lines=Hello+There+!!!!!;My+Name+is+Jazzy+Bruno;I+am+a+Software+Developer;I+am+Currently+Studing+at+Rwanda+Coding+Academy;Currently+Working+On%3A;WIWO+(Backend+Developer);RestoHub+(FullStck+Developer);Empressa+(FullStack+Developer);HOPE+SHOP+(Backend+Developer))](https://git.io/typing-svg)
+
 Full stack web developer | UI x UX designer
 ----------------------------------------------
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
@@ -11,13 +12,6 @@ Full stack web developer | UI x UX designer
 - 😄 Pronouns: He
 - 🔬Interested about cybersecurity , data science , Programming and AI && Robotics
 - ⚡ Fun fact: **It’s all about computing**.
-
- ### Currently Working On: 
- ### ----------------------------
-  ## WIWO = website for movies(Backend Developer)
-  ## RestoHub = website for restaurants(FullStack Developer)
-  ## Empressa = ecommerce website (FullStack Developer)
-
 
 You can contact me through my social media accounts!!!
 ------------------------------------------------------
@@ -28,9 +22,6 @@ You can contact me through my social media accounts!!!
 <a style='margin-5px;' href="https://www.github.com/jazzybruno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.instagram.com/bruno_jazzy/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/768px-Instagram_logo_2016.svg.png" width="32" height="32" /></a>
 </div>
-
-
-
 
 
 Skills
