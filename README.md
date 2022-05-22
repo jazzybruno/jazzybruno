@@ -4,14 +4,6 @@
 
 Full stack web developer | UI x UX designer
 ----------------------------------------------
-
-
-###### 🔭 I’m currently working on :
-  ### WIWO = website for movies(Backend Developer)
-  ### RestoHub = website for restaurants(FullStack Developer)
-  ### Empressa = ecommerce website (FullStack Developer)
-  
-
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
 - 💬 Ask me about anything related to web development, ui and ux design and any other interesting fact
 - 📫 How to reach me: **jazzybruno45@gmail.com**
@@ -19,11 +11,17 @@ Full stack web developer | UI x UX designer
 - 🔬Interested about cybersecurity , data science , Programming and AI && Robotics
 - ⚡ Fun fact: **It’s all about computing**.
 
+ ### Currently Working On: 
+ ### ----------------------------
+  ## WIWO = website for movies(Backend Developer)
+  ## RestoHub = website for restaurants(FullStack Developer)
+  ## Empressa = ecommerce website (FullStack Developer)
+
 
 You can contact me through my social media accounts!!!
 ------------------------------------------------------
 
-<div style='display:flex;'>
+<div style='display:block;'>
   <a style='margin-5px;' href="https://www.linkedin.com/in/jazzy-bruno-b9861a225/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.facebook.com/jazzibruno.dushimiyimana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a>
 <a style='margin-5px;' href="https://www.github.com/jazzybruno" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
