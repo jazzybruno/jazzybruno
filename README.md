@@ -6,7 +6,12 @@ Full stack web developer | UI x UX designer
 ----------------------------------------------
 
 
-- 🔭 I’m currently working on RestoHub and WIWO
+###### 🔭 I’m currently working on :
+  ### WIWO = website for movies(Backend Developer)
+  ### RestoHub = website for restaurants(FullStack Developer)
+  ### Empressa = ecommerce website (FullStack Developer)
+  
+
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
 - 💬 Ask me about anything related to web development, ui and ux design and any other interesting fact
 - 📫 How to reach me: **jazzybruno45@gmail.com**
