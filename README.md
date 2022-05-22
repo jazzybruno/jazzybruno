@@ -2,6 +2,8 @@
 
 =====================
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 Full stack web developer | UI x UX designer
 ----------------------------------------------
 - 👯 I’m looking to collaborate on any web development project or any other interesting thing.
