@@ -52,4 +52,7 @@ Skills
 
 <a href="https://github.com/jazzybruno" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jazzybruno&langs_count=10&title_color=a855f7&text_color=ffffff&icon_color=ec4899&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&hide=html" alt="Top Languages" /></a>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://jazzybruno.000webhostapp.com/)
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{jazzybruno}/count.svg" /></p> 
+<br></div>
