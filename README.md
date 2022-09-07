@@ -2,7 +2,7 @@
 
 =====================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&background=327CD200&center=true&vCenter=true&width=460&lines=Hello+There+!!!!!;My+Name+is+Jazzy+Bruno;I+am+a+Software+Developer;Currently+Working+On%3A;WIWO+(Backend+Developer);RestoHub+(FullStack+Developer);Empressa+(FullStack+Developer);HOPE+SHOP+(Backend+Developer))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&background=327CD200&center=true&vCenter=true&width=460&lines=Hello+There+!!!!!;My+Name+is+Jazzy+Bruno;I+am+a+Software+Developer;Currently+Studying+On%3A;Mobile Development)](https://git.io/typing-svg)
 
 Full stack web developer | UI x UX designer
 ----------------------------------------------
