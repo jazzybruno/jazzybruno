@@ -2,7 +2,7 @@
 
 =====================
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=000000&background=327CD200&center=true&vCenter=true&width=460&lines=Hello+There+!!!!!;My+Name+is+Jazzy+Bruno;I+am+a+Software+Developer;Currently+Studying:;Mobile Development)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&background=FFFFFF00&width=435&lines=Hello+There+!!;My+name+is+Jazzy+Bruno;I+am++a+Software+Engineer;I+am+Currently+Studying%3A;Mobile+Development)](https://git.io/typing-svg)
 
 Full stack web developer | UI x UX designer
 ----------------------------------------------
@@ -58,6 +58,4 @@ Skills
 <br></div>
 
 
-|My github statistics|My languages|Streaks|
-|-|-|-|
-|[![Peace's github stats](https://github-readme-stats.vercel.app/api?username=jazzybruno&show_icons=true&theme=dark&hide_title=true)](https://github.com/jazzybruno)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzybruno&show_icons=true&theme=dark&layout=compact&hide_title=true)](https://github.com/jazzybruno)|![jazzybruno](https://github-readme-streak-stats.herokuapp.com/?user=jazzybruno&theme=light)
+
