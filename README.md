@@ -52,7 +52,7 @@ Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzybruno&layout=compact)](https://github.com/jazzybruno/github-readme-stats)
 
-<a href="https://www.buymeacoffee.com/jazzybruno"> <img src="https://i.etsystatic.com/32289224/r/il/294bb2/3603423963/il_570xN.3603423963_tuhu.jpg"  alt="NO image found"></img> </a>
+<a href="https://www.buymeacoffee.com/jazzybruno"> <img src="https://salmonweird.files.wordpress.com/2021/12/blue-button.png?w=640"></img> </a>
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
