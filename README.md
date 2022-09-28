@@ -52,6 +52,8 @@ Skills
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzybruno&layout=compact)](https://github.com/jazzybruno/github-readme-stats)
 
+<a href="https://www.buymeacoffee.com/jazzybruno"></a>
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jazzybruno}/count.svg" /></p> 
