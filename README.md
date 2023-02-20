@@ -39,6 +39,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/jazzybruno"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="jazzybruno" /></a></p><br><br>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazzybruno&langs_count=10)](https://github.com/jazzybruno/github-readme-stats)
+
 <a href="http://www.github.com/jazzybruno"><img src="https://activity-graph.herokuapp.com/graph?username=jazzybruno&bg_color=fff&color=000&line=0075ff&point=000&area_color=164df97a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jazzybruno&show_icons=true&locale=en&layout=compact" alt="jazzybruno" /></p>
