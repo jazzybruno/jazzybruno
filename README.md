@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **any projects available**
 
-- 👨‍💻 All of my projects are available at [jazzybruno.vercel.app](jazzybruno.vercel.app)
+- 👨‍💻 All of my projects are available at [jazzybruno.vercel.app](https://jazzybruno.vercel.app)
 
 - 💬 Ask me about **Backend , frontend , programming**
 
