@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/jazzybruno" target="blank"><img src="https://img.shields.io/twitter/follow/jazzybruno?logo=twitter&style=for-the-badge" alt="jazzybruno" /></a> </p>
 
-- 🌱 I’m currently learning **Mobile Development in Flutter**
-
 - 👯 I’m looking to collaborate on **any projects available**
 
 - 👨‍💻 All of my projects are available at [jazzybruno.vercel.app](https://jazzybruno.vercel.app)
